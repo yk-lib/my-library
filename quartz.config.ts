@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       tagId: "G-67VKGJMWR3",
     },
 
-    locale: "en-US",
+    locale: "ja-JP",
     baseUrl: "yk-lib.github.io/my-library",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
