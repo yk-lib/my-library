@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
 
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "yk-lib.github.io/my-library",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
