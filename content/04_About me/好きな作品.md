@@ -1,5 +1,5 @@
 ---
+draft: true
 tags:
   - seed
 ---
-[[アポロ11号]]
