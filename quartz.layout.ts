@@ -24,6 +24,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    // ここに追加
+    Component.RecentNotes({
+      title: "最近の更新",
+      limit: 5, // 表示する記事数
+      filter: (f) => f.slug! !== "index", // ホームページ自身を除外
+    }),
   ],
   left: [
     Component.PageTitle(),
