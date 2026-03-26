@@ -4,13 +4,17 @@ tags:
   - seed
 ---
 - 各席は店内に点在
-- フロアライトやデスクライトで手元を明るく
-	- できれば全席違うデザインのものにしたい
-	- イメージ↓
-		- https://www.ikea.com/jp/ja/p/roedflik-desk-lamp-grey-green-40582713/
-		- https://www.ikea.com/jp/ja/p/ranarp-work-lamp-off-white-30231320/#content
-		- IKEAのデスクライトが良さそう
+	- フロアライトやデスクライトで手元を明るく
+		- できれば全席違うデザインのものにしたい
+		- イメージ↓
+			- https://www.ikea.com/jp/ja/p/roedflik-desk-lamp-grey-green-40582713/
+			- https://www.ikea.com/jp/ja/p/ranarp-work-lamp-off-white-30231320/#content
+			- IKEAのデスクライトが良さそう
+	- 椅子は座り心地とデザイン性のバランスを考える
+		- https://www.ikea.com/jp/ja/p/alefjaell-office-chair-grann-beige-60320225/
 - 本棚は基本スチールラック
 	- 所々マガジンラックやワゴンを配置
+	- 棚の上にはライトを設置？
+		- https://www.ikea.com/jp/ja/p/ytberg-cabinet-lighting-white-dimmable-90516829/
 - インダストリアル感があり、モノトーン過ぎない空間
-	- 差し色はミントグリーンを検討中。レトロっぽい色を選びたい
+	- 差し色はミントグリーンを検討中。レトロな色を選びたい
