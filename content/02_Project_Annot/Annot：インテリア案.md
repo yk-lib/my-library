@@ -18,3 +18,5 @@ tags:
 		- https://www.ikea.com/jp/ja/p/ytberg-cabinet-lighting-white-dimmable-90516829/
 - インダストリアル感があり、モノトーン過ぎない空間
 	- 差し色はミントグリーンを検討中。レトロな色を選びたい
+- メモをはさんで壁に飾りたい
+	- [MYRHEDEN ミールヘーデン メモボード クリップ付き, 黄銅色 - IKEA](https://www.ikea.com/jp/ja/p/myrheden-memo-board-with-clips-brass-colour-90338243/)
