@@ -4,6 +4,13 @@ on:
   push:
     branches:
       - v4
+  # --- ここから追加 ---
+  schedule:
+    # 毎週月曜日と木曜日の午前10時（日本時間）に実行する設定
+    # UTC（世界標準時）で記述するため、日本時間から9時間引いた時間を指定します
+    - cron: '0 1 * * 1,4' 
+  # --- ここまで追加 ---
+  workflow_dispatch: # 手動で実行ボタンを押せるようにする設定（あると便利です）
 
 env: # これを追加
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
