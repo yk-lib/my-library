@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: 表
+    filters:
+      and:
+        - draft == null
+    order:
+      - file.name
+      - tags
+    columnSize:
+      file.name: 242
