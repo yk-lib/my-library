@@ -3,7 +3,7 @@ views:
     name: 表
     filters:
       and:
-        - draft == null
+        - draft != true
     order:
       - file.name
       - tags
