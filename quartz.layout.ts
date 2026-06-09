@@ -7,10 +7,10 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     // ここに追加
-    Component.RecentNotes({
-      title: "最近の更新",
-      limit: 5, // 表示する記事数
-      filter: (f) => f.slug! !== "index", // ホームページ自身を除外
+    //Component.RecentNotes({
+    //  title: "最近の更新",
+    //  limit: 5, // 表示する記事数
+    //  filter: (f) => f.slug! !== "index", // ホームページ自身を除外
     }),
   ],
   footer: Component.Footer({
