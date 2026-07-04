@@ -1,7 +1,7 @@
 ---
 tags:
   - seed
-draft: true
+draft: false
 ---
 #### REST APIとは？
 - Webシステムを外部から利用できる
