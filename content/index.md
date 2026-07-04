@@ -6,7 +6,4 @@
 [[Annot：プロジェクト名の由来]]
 
 ---
-2026-03-19：サイト公開
-
----
-[鹿児島大学周辺マップ - Google マイマップ](https://www.google.com/maps/d/u/0/edit?mid=1dBNNl1ZTXvpLX0EfQkUivn1NnfmHsw0&usp=sharing)
+Since 2026
