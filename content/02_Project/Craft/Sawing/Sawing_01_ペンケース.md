@@ -1,5 +1,7 @@
-#### 参考動画
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BLDYCSwqJKo?si=yGbjFiwN_jIfRkw5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+【完成品写真準備中...】
+
+---
 
 #### 材料
 - 表地・裏地・接着芯：23cm x 10cm x 2枚
@@ -24,3 +26,8 @@
 - ファスナーの根元部分が縫いにくいので、いっそ諦めるのもあり
 - 今回は20cmファスナーで作ったけど、若干取り出しにくいので次回は25cmファスナーで作りたい
 - 途中経過の写真を撮るべきだった
+
+---
+
+#### 参考動画
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BLDYCSwqJKo?si=yGbjFiwN_jIfRkw5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
