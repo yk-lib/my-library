@@ -21,3 +21,4 @@ tags:
 
 ---
 [[Life_MOC]]
+[[QOL向上]]
