@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 [[羽生結弦]]さんが出演するMVをきっかけに知った。
 

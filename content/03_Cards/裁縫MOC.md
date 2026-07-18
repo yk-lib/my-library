@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 tags:
   - seed
 ---
@@ -30,4 +30,5 @@ tags:
 #### 最近の制作履歴
 - ボックスペンケース
 	- YouTubeを参考に制作
-- メイド風エプロン：制作中
+- メイド風エプロン
+	- YouTubeを参考に制作
