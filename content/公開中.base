@@ -4,6 +4,8 @@ views:
     filters:
       and:
         - draft != true
+        - and:
+            - file.folder != "09_Assets"
     order:
       - file.name
       - tags
