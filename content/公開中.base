@@ -9,5 +9,9 @@ views:
     order:
       - file.name
       - tags
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
     columnSize:
       file.name: 242
